@@ -5,10 +5,21 @@ In the last few years, more attention has been put on what a researcher does wit
 
 **The definition of Open Science denotes free access to the electronic scientific information, particularly to publications and research data created and published as a result of public funding.**
 
-![The Components of Open Science](/Users/dianapilvar/Documents/OLS-cohort7)
+![The Components of Open Science](/Users/dianapilvar/Documents/OLS-cohort7/Components_of_Open_Science_UNESCO_2020.png)
 
-To ease the burden of trying to archive or publish the data at the end of the project, it is recommended to think about what you want to do with your research outputs at the beginning of the project. This way, you can implement data management and make your life easier. However, what constitutes "good data management" is not defined and is usually left as the decision of the data or repository's owner. What also needs to be noted is that most (or at least some) of these practices you are probably already using.
+Publicly accessible scientific information makes research more effective and faster:
+- less data duplication 
+- more research results with the same basic data 
+- visibility and citation of the research results will grow 
+- availability of data increases the transparency of research and therefore it contributes to the research quality 
+- feedback to the state and society
+- economic effect and positive impact on innovation
 
+To ease the burden of trying to archive or publish the data at the end of the project, it is recommended to think about what you want to do with your research outputs at the beginning of the project. Funder’s require grant applicants to write data management plans to have an overview of their data and best practices of handling it. What also needs to be noted is that most of these practices you are probably already using.
+
+Here is a Research Data Management and Publishing open educational [resource](https://sisu.ut.ee/andmekursus/home0) about Open Science and Data Management plan By University of Tartu Library. 
 We are compiling recommendations and references to help researchers manage their data on this page. These recommendations are (in principle) meant for researchers working in Estonia. 
 
-We have divided the data management practices into bigger subsections (the FAIR Principles, Sensitive data, storage, etc.). Under these tabs, you can find a very brief overview of the subject, recommendations for Estonian researchers, any extra materials produced by ELIXIR Estonia on the subject, and references, where you can get more detailed information. Additionally, we recommend visiting RDMkit, directed by ELIXIR. It is an online guide on data management throughout the research project lifecycle. It has guidelines, information, and pointers to help you with the problems that you may encounter.
+We have divided the data management practices into subsections that can be viewed on the tabs on the left. Under these tabs, you can find a brief overview of the subject, recommendations for Estonian researchers, any extra materials produced by ELIXIR Estonia on the subject, and references, where you can get more detailed information. 
+
+Additionally, we recommend visiting [RDMkit](https://rdmkit.elixir-europe.org/), generated and maintained by ELIXIR. It is an online guide on data management throughout the research project lifecycle. It has guidelines, information, and pointers to help you with the problems that you may encounter. 
