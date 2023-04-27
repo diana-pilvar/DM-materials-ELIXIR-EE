@@ -5,7 +5,7 @@ In the last few years, more attention has been put on what a researcher does wit
 
 **The definition of Open Science denotes free access to the electronic scientific information, particularly to publications and research data created and published as a result of public funding.**
 
-![The Components of Open Science](/Users/dianapilvar/Documents/OLS-cohort7/Components_of_Open_Science_UNESCO_2020.png)
+![The Components of Open Science](https://haldus.taltech.ee/sites/default/files/styles/manual_crop/public/news-image/avatud%20teadus.png?itok=6I4kv2ls "Components of Open Science")
 
 Publicly accessible scientific information makes research more effective and faster:
 - less data duplication 
