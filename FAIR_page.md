@@ -22,7 +22,18 @@ These will be achieved with written information as lesson notes + examples + exe
 * more citations
 * etc
 
+>**Example**
+>
+> Example 1
+> 
+> Example 2
+> > Example 2.2
+---------------------------------------
+**Task**
 
+testing question is very long
 <details><summary>Solution example</summary><p>
   blahdiblah
 </p></details>
+
+---------------------------------------
