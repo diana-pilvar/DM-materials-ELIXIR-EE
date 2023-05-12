@@ -5,3 +5,5 @@ authors:
   given-names: Diana
   orcid: https://orcid.org/0000-0002-5788-2687
 title: "Data management materials for ELIXIR Estonia"
+preferred-citation:
+  type: generic
