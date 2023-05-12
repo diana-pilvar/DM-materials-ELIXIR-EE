@@ -14,3 +14,7 @@
 * List good resources for FAIR data management information
 
 These will be achieved with written information as lesson notes + examples + exercies, practical parts using Moodle/ Kahoot
+
+<details><summary>Solution example</summary><p>
+  blahdiblah
+</p></details>
