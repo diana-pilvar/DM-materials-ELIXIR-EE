@@ -1,3 +1,8 @@
+<figure>
+    <img src="FAIR_data_principles.jpg" width="700" height="250"
+         alt="FAIR">
+</figure>
+
 
 # FAIR principles
 
