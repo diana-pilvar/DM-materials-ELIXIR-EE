@@ -15,6 +15,14 @@
 
 These will be achieved with written information as lesson notes + examples + exercies, practical parts using Moodle/ Kahoot
 
+## Why FAIR?
+
+* that 10 bn sentence. mention time spent and cost of storage are biggest 
+* PHDs spend 80% of their time data munging
+* more citations
+* etc
+
+
 <details><summary>Solution example</summary><p>
   blahdiblah
 </p></details>
