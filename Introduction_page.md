@@ -52,7 +52,7 @@ We are compiling recommendations and references to help researchers manage their
 - Tallinn University of Technology Library page about [Open Science](https://taltech.ee/en/library/open-science), [research data management](https://taltech.ee/en/library/research-data-management) and [data management plan](https://taltech.ee/en/library/data-management-plan)
 - Estonian University of Life Sciences Library page about [Open Science](https://library.emu.ee/en/research/open-science/) and [research data management](https://library.emu.ee/en/research/research-data-management/)
 - Tallinn University page about [Open Science](https://www.tlu.ee/avatud-teadus) (in Estonian)
-- Open Science in Estonia home page [home page](https://www.avatudteadus.ee/en/home/) and [Facebook page](https://www.facebook.com/avatudteadus) with events
+- Open Science in Estonia [home page](https://www.avatudteadus.ee/en/home/) and [Facebook page](https://www.facebook.com/avatudteadus) with events
 
 
 We have divided the data management practices into subsections that can be viewed on the tabs on the left. Under these tabs, you can find a brief overview of the subject, recommendations for Estonian researchers, any extra materials produced by ELIXIR Estonia on the subject, and references, where you can get more detailed information. 
