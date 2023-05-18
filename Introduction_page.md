@@ -3,7 +3,7 @@
  
 ## Open Science
 
-In the last few years, more attention has been put on what a researcher does with their research outputs. Whether this would be data, code, software, or anything else. In 2015, Estonian Research Council established the Open Science Expert Group which has compiled the general principles and policy recommendations [document](https://www.etag.ee/wp-content/uploads/2016/07/Avatud_Teadus_Eestis_1.0.pdf) for Open Science in Estonia.
+In the last few years, more attention has been put on what a researcher does with their research outputs. Whether this would be data, code, software, or anything else. In 2015, Estonian Research Council established the Open Science Expert Group which has compiled the general principles and policy recommendations document ([Estonian](https://www.etag.ee/wp-content/uploads/2016/07/Avatud_Teadus_Eestis_1.0.pdf),[English](https://www.etag.ee/wp-content/uploads/2017/03/Open-Science-in-Estonia-Principles-and-Recommendations-final.pdf))  for Open Science in Estonia.
 
 The definition of Open Science denotes free access to the electronic scientific information, particularly to publications and research data created and published as a result of public funding.
 
@@ -39,7 +39,7 @@ In 2016, the [FAIR Guiding Principles for scientific data management and steward
   - Increasing data volume 
   - Increasing data complexity 
   - Speed of data creation makes scientists rely on computational support exponentially.
-- Traditional ‘wet labs’ make space for ‘dry (computer) labs
+- Traditional ‘wet labs’ make space for ‘dry’ (computer) labs
 - Knowledge discovery- enhancing the ability of machines and scientists to find and use data
 - Improve research transparency
 
@@ -47,11 +47,12 @@ In 2016, the [FAIR Guiding Principles for scientific data management and steward
 
 We are compiling recommendations and references to help researchers manage their data on this page. These recommendations are (in principle) meant for researchers working in Estonia. 
 
-- Here is a Research Data Management and Publishing open educational [resource](https://sisu.ut.ee/andmekursus/home0) about Open Science and Data Management plan By University of Tartu Library. 
-- TalTech?
-- EMU
-- Tallinn Uni
-- Others?
+- Estonian Research Council (ETAG) page about [Open science](https://etag.ee/en/activities/open-science/) 
+- Research Data Management and Publishing open educational [resource](https://sisu.ut.ee/andmekursus/home0) about Open Science and Data Management plan By University of Tartu Library. Additional pages about [Open Science](https://utlib.ut.ee/en/open-science) and [Data Management Plan](https://utlib.ut.ee/en/data-management-plan-dmp)
+- Tallinn University of Technology Library page about [Open Science](https://taltech.ee/en/library/open-science), [research data management](https://taltech.ee/en/library/research-data-management) and [data management plan](https://taltech.ee/en/library/data-management-plan)
+- Estonian University of Life Sciences Library page about [Open Science](https://library.emu.ee/en/research/open-science/) and [research data management](https://library.emu.ee/en/research/research-data-management/)
+- Tallinn University page about [Open Science](https://www.tlu.ee/avatud-teadus) (in Estonian)
+- Open Science in Estonia home page [home page](https://www.avatudteadus.ee/en/home/) and [Facebook page](https://www.facebook.com/avatudteadus) with events
 
 
 We have divided the data management practices into subsections that can be viewed on the tabs on the left. Under these tabs, you can find a brief overview of the subject, recommendations for Estonian researchers, any extra materials produced by ELIXIR Estonia on the subject, and references, where you can get more detailed information. 
