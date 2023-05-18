@@ -12,8 +12,8 @@
 * Describe FAIR principles
 * Apply FAIR principles throughout research project
 * List good resources for FAIR data management information
-
 These will be achieved with written information as lesson notes + examples + exercies, practical parts 
+
 ---------------------------------------
 
 ### History
@@ -22,10 +22,13 @@ In 2014, members of the scientific community got together in a workshop called �
 
 ### Why FAIR?
 
-* that 10 bn sentence. mention time spent and cost of storage are biggest 
-* PHDs spend 80% of their time data munging
-* more citations
-* etc
+* Promote good data management practice
+* More citations of your published research articles
+* Greater discoverability and enhanced visibility
+* Credit for your work, helping you to gain recognition.
+* The absence of FAIR research data costs the European economy at least €10.2 billion annually. Biggest parameters that influence this are time spent on non-FAIR research (finding the right data) and cost of storage (redundancy) [Source](https://data.europa.eu/doi/10.2777/02999)
+* Students in PhD programmes spend up to 80% of their time on ‘data munging’, fixing formatting and minor mistakes to make data suitable for analysis — wasting time and talent. [Source](https://doi.org/10.1038/d41586-020-00505-7) 
+
 
 ### FAIR important properties
 
