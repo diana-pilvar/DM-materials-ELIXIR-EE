@@ -24,6 +24,8 @@ Publicly accessible scientific information makes research more effective and fas
 
 To ease the burden of trying to archive or publish the data at the end of the project, it is recommended to think about what you want to do with your research outputs at the beginning of the project. Funder’s require grant applicants to write data management plans to have an overview of their data and best practices of handling it. What also needs to be noted is that most of these practices you are probably already using.
 
+---------------------------------------
+
 ## FAIR
 
 In 2016, the [FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618) were published in Scientific Data. The intention of these principles is to improve the Findability, Accessibility, Interoperability and Reuse of digital assets.
@@ -61,6 +63,7 @@ We have divided the data management practices into subsections that can be viewe
 
 Additionally, we recommend visiting [RDMkit](https://rdmkit.elixir-europe.org/), generated and maintained by ELIXIR. It is an online guide on data management throughout the research project lifecycle. It has guidelines, information, and pointers to help you with the problems that you may encounter. 
 
+---------------------------------------
 
 ## Image sources
 
