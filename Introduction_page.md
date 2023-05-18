@@ -24,7 +24,7 @@ Publicly accessible scientific information makes research more effective and fas
 
 To ease the burden of trying to archive or publish the data at the end of the project, it is recommended to think about what you want to do with your research outputs at the beginning of the project. Funder’s require grant applicants to write data management plans to have an overview of their data and best practices of handling it. What also needs to be noted is that most of these practices you are probably already using.
 
-### Open Sciencer Resources in Estonia
+### Open Science Resources in Estonia
 
 - Estonian Research Council (ETAG) page about [Open science](https://etag.ee/en/activities/open-science/) 
 - Research Data Management and Publishing open educational [resource](https://sisu.ut.ee/andmekursus/home0) about Open Science and Data Management plan By University of Tartu Library. Additional pages about [Open Science](https://utlib.ut.ee/en/open-science) and [Data Management Plan](https://utlib.ut.ee/en/data-management-plan-dmp)
