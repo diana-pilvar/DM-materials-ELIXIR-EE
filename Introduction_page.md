@@ -10,7 +10,7 @@ In the last few years, more attention has been put on what a researcher does wit
 <figure>
     <img src="Components_of_Open_Science_UNESCO_2020.png" width="450" height="370"
          alt="The Components of Open Science">
-    <figcaption> The Components of Open Science </figcaption>
+    <figcaption> The Components of Open Science. From "Towards a UNESCO recommendation on open science: building a global consensus on open science". https://unesdoc.unesco.org/ark:/48223/pf0000373209.locale=en </figcaption>
 </figure>
 
 ### Why is Open Science useful?
