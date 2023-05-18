@@ -24,6 +24,15 @@ Publicly accessible scientific information makes research more effective and fas
 
 To ease the burden of trying to archive or publish the data at the end of the project, it is recommended to think about what you want to do with your research outputs at the beginning of the project. Funder’s require grant applicants to write data management plans to have an overview of their data and best practices of handling it. What also needs to be noted is that most of these practices you are probably already using.
 
+### Open Sciencer Resources in Estonia
+
+- Estonian Research Council (ETAG) page about [Open science](https://etag.ee/en/activities/open-science/) 
+- Research Data Management and Publishing open educational [resource](https://sisu.ut.ee/andmekursus/home0) about Open Science and Data Management plan By University of Tartu Library. Additional pages about [Open Science](https://utlib.ut.ee/en/open-science) and [Data Management Plan](https://utlib.ut.ee/en/data-management-plan-dmp)
+- Tallinn University of Technology Library page about [Open Science](https://taltech.ee/en/library/open-science), [research data management](https://taltech.ee/en/library/research-data-management) and [data management plan](https://taltech.ee/en/library/data-management-plan)
+- Estonian University of Life Sciences Library page about [Open Science](https://library.emu.ee/en/research/open-science/) and [research data management](https://library.emu.ee/en/research/research-data-management/)
+- Tallinn University page about [Open Science](https://www.tlu.ee/avatud-teadus) (in Estonian)
+- Open Science in Estonia [home page](https://www.avatudteadus.ee/en/home/) and [Facebook page](https://www.facebook.com/avatudteadus) with events
+
 ---------------------------------------
 
 ## FAIR
@@ -37,24 +46,20 @@ In 2016, the [FAIR Guiding Principles for scientific data management and steward
 
 ### Why is FAIR needed?
 
-- Life science research becomes data-intensive. 
+- Life science research becomes data-intensive 
   - Increasing data volume 
   - Increasing data complexity 
-  - Speed of data creation makes scientists rely on computational support exponentially.
+  - Speed of data creation makes scientists rely on computational support exponentially
 - Traditional ‘wet labs’ make space for ‘dry’ (computer) labs
 - Knowledge discovery- enhancing the ability of machines and scientists to find and use data
 - Improve research transparency
 
-## Resources in Estonia
+## FAIR Resources in Estonia
 
-We are compiling recommendations and references to help researchers manage their data on this page. These recommendations are (in principle) meant for researchers working in Estonia. 
-
-- Estonian Research Council (ETAG) page about [Open science](https://etag.ee/en/activities/open-science/) 
-- Research Data Management and Publishing open educational [resource](https://sisu.ut.ee/andmekursus/home0) about Open Science and Data Management plan By University of Tartu Library. Additional pages about [Open Science](https://utlib.ut.ee/en/open-science) and [Data Management Plan](https://utlib.ut.ee/en/data-management-plan-dmp)
-- Tallinn University of Technology Library page about [Open Science](https://taltech.ee/en/library/open-science), [research data management](https://taltech.ee/en/library/research-data-management) and [data management plan](https://taltech.ee/en/library/data-management-plan)
-- Estonian University of Life Sciences Library page about [Open Science](https://library.emu.ee/en/research/open-science/) and [research data management](https://library.emu.ee/en/research/research-data-management/)
-- Tallinn University page about [Open Science](https://www.tlu.ee/avatud-teadus) (in Estonian)
-- Open Science in Estonia [home page](https://www.avatudteadus.ee/en/home/) and [Facebook page](https://www.facebook.com/avatudteadus) with events
+- ELIXIR-Estonia has slides available in Zenodo
+    - Estonian: [The FAIR Principles Lecture](https://doi.org/10.5281/zenodo.5533534)
+    - English: [The FAIR Principles Lecture](https://doi.org/10.5281/zenodo.5572352) and [FAIR in a Nutshell](https://doi.org/10.5281/zenodo.7660008)
+    - [Flyers for FAIR](https://doi.org/10.5281/zenodo.5769084) 
 
 
 We have divided the data management practices into subsections that can be viewed on the tabs on the left. Under these tabs, you can find a brief overview of the subject, recommendations for Estonian researchers, any extra materials produced by ELIXIR Estonia on the subject, and references, where you can get more detailed information. 
