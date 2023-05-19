@@ -39,6 +39,23 @@ In 2014, members of the scientific community got together in a workshop called �
 - FAIR ≠ Open. 
     - Open data is available without restriction. The ‘A’ in FAIR stands for ‘Accessible under well defined conditions’. There may be legitimate reasons to shield data and services generated with public funding from public access. These include personal privacy, national security, and competitiveness. The FAIR principles, although inspired by Open Science, explicitly and deliberately do not address moral and ethical issues pertaining to the openness of data. They do, however, require clarity and transparency around the conditions governing access and reuse. [Source DOI: 10.3233/ISU-170824 ](https://content.iospress.com/articles/information-services-and-use/isu824)
 
+The FAIR Principles are divided into four categories: 
+1. Findable 
+2. Accessible,
+3. Interoperable
+4. Reusable; 
+and each of these are divided up to specific principles about data and metadata. 
+
+The **data** is all the resources that have been used or produced during and at the end of the research project. 
+> Examples: text, spreadsheets, images, 3D models, software, audio files,  video files, reports, surveys, patient records, abstract ideas,  measurements, statistics, raw biological sequence (DNA, RNA, amino acid), slides, workflows, algorithms, codes, databases.
+  This means that when using the term data in the FAIR Principles context, it does not just mean data, but any of the resources produced. 
+
+The **metadata** is all of the descriptive information that helps to find/reuse/interpret the digital resource. “Data about data” 
+>Examples: image files contain metadata about the date picture was taken, resolution, size, what equipment was used etc. 
+
+RELEVANT TOOLS AND RESOURCES: 
+
+
 ## Findable 
 
 
