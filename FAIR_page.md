@@ -50,8 +50,6 @@ and each of these are divided up to specific principles about data and metadata.
 The **data** is all the resources that have been used or produced during and at the end of the research project. 
 > Examples: text, spreadsheets, images, 3D models, software, audio files,   video files, reports, surveys, patient records, abstract ideas,  measurements, statistics, raw biological sequence (DNA, RNA, amino acid), slides, workflows, algorithms, codes, databases.
 
-This means that when using the term data in the FAIR Principles context, it does not just mean data, but any of the resources produced. 
-
 The **metadata** is all of the descriptive information that helps to find/reuse/interpret the digital resource. “Data about data” 
 >Examples: image files contain metadata about the date picture was taken, resolution, size, what equipment was used etc. 
 
@@ -60,6 +58,17 @@ RELEVANT TOOLS AND RESOURCES: [RDMkit](https://rdmkit.elixir-europe.org/) - Best
 
 ## Findable 
 
+There are 4 principles regarding findability:
+  F1. (Meta)data are assigned a globally unique and persistent identifier
+  F2. Data are described with rich metadata
+  F3. Metadata clearly and explicitly include the identifier of the data they describe
+  F4. (Meta)data are registered or indexed in a searchable resource
+
+The first step in (re)using data is to find them. Metadata and data should be easy to find for both humans and computers. 
+
+
+
+PICTURE OF F COLORFUL HERE
 
 >**Example**
 >
@@ -68,13 +77,20 @@ RELEVANT TOOLS AND RESOURCES: [RDMkit](https://rdmkit.elixir-europe.org/) - Best
 > Example 2
 > > Example 2.2
 ---------------------------------------
-**Task**
+**Task 1**
 
 testing question is very long
 <details><summary>Solution example</summary><p>
   blahdiblah
 </p></details>
 
+**Task 2**
+
+<details><summary>testing question is short</summary><p>
+<details><summary>Solution example</summary><p>
+  blahdiblah
+</p></details>
+</p></details>
 ---------------------------------------
 
 
