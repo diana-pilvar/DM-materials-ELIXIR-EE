@@ -60,8 +60,11 @@ RELEVANT TOOLS AND RESOURCES: [RDMkit](https://rdmkit.elixir-europe.org/) - Best
 
 There are 4 principles regarding findability:
   F1. (Meta)data are assigned a globally unique and persistent identifier
+
   F2. Data are described with rich metadata
+
   F3. Metadata clearly and explicitly include the identifier of the data they describe
+  
   F4. (Meta)data are registered or indexed in a searchable resource
 
 The first step in (re)using data is to find them. Metadata and data should be easy to find for both humans and computers. 
