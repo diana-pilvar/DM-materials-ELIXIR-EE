@@ -44,16 +44,18 @@ The FAIR Principles are divided into four categories:
 2. Accessible,
 3. Interoperable
 4. Reusable; 
+
 and each of these are divided up to specific principles about data and metadata. 
 
 The **data** is all the resources that have been used or produced during and at the end of the research project. 
-> Examples: text, spreadsheets, images, 3D models, software, audio files,  video files, reports, surveys, patient records, abstract ideas,  measurements, statistics, raw biological sequence (DNA, RNA, amino acid), slides, workflows, algorithms, codes, databases.
-  This means that when using the term data in the FAIR Principles context, it does not just mean data, but any of the resources produced. 
+> Examples: text, spreadsheets, images, 3D models, software, audio files,   video files, reports, surveys, patient records, abstract ideas,  measurements, statistics, raw biological sequence (DNA, RNA, amino acid), slides, workflows, algorithms, codes, databases.
+
+This means that when using the term data in the FAIR Principles context, it does not just mean data, but any of the resources produced. 
 
 The **metadata** is all of the descriptive information that helps to find/reuse/interpret the digital resource. “Data about data” 
 >Examples: image files contain metadata about the date picture was taken, resolution, size, what equipment was used etc. 
 
-RELEVANT TOOLS AND RESOURCES: 
+RELEVANT TOOLS AND RESOURCES: [RDMkit](https://rdmkit.elixir-europe.org/) - Best practices and guidelines to help you make your data FAIR (Findable, Accessible, Interoperable and Reusable)
 
 
 ## Findable 
